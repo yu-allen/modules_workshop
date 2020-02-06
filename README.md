@@ -1,1 +1,1 @@
-test
+Javascript Modules Workshop
